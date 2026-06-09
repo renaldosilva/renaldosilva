@@ -7,8 +7,10 @@
 ###
 
 <p align="left">
-  Sou <strong>Renaldo Silva</strong>, estudante de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Campina Grande (UFCG)</strong>.  
-  Atualmente, estou em busca de oportunidades para adquirir experiência no <strong>desenvolvimento de aplicações web</strong>, com foco em <strong>Java</strong> ☕ e <strong>Spring Boot</strong> 🌱 para a criação de <strong>APIs REST</strong>.
+  Sou <strong>Renaldo Silva</strong>, Desenvolvedor Back-End formado em <strong>Ciência da Computação</strong> pela <strong>Universidade Federal de Campina Grande (UFCG)</strong>.  
+  Tenho experiência na construção de aplicações escaláveis e <strong>APIs REST</strong>, atuando principalmente com o ecossistema <strong>Java</strong> ☕ e <strong>Spring Boot</strong> 🌱. 
+  <br><br>
+  Atualmente, aplico meus conhecimentos no desenvolvimento de sistemas web e plataformas gamificadas. Sigo em constante aprendizado e sempre em busca de novas oportunidades para criar soluções eficientes!
 </p>
 
 ###
@@ -31,6 +33,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
@@ -45,6 +49,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/renaldo-silva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="E-mail" />
   </a>
 </div>
 
